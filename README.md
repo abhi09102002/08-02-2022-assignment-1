@@ -1,1 +1,9 @@
-# 08-02-2022-assignment-1
+#comparision operator
+a=10
+b=30
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+print(a==b)
+print(a!=b)
